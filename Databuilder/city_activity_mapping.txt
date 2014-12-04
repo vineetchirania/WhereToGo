@@ -1,0 +1,30 @@
+Beach: Alibagh|2, Puri|3, Gokarna|2, Kovalam|2, Alapuzza|3, Mumbai|1, Chennai|1, Goa|3, Singapore|2, Pattaya|3, Phuket|3, Bali|3, Mauritius|3, Maldives|3, Dubai|2, Amsterdem|2, Barcelona|3
+
+Skyline: Dubai|3, Singapore|3, Hongkong|3, Mumbai|1
+
+Casino: Goa|2, Singapore|3, Amsterdem|2, Las Vegas|3
+
+Hill station: Gulmarg|3, Leh|3, Srinagar|3, Dalhousie|2, Shimla|2, Manali|3, Dharamsala|2, Almora|2, Harsil|2, Khajjiar|2, Bir|1, Kasol|2, Mukteshwar|2, Nainital|3, Mussorie|3, Mount Abu|3, Gangtok|3, Darjeeling|3, Lonavla|2, Matheran|2, Mahabaleshwar|1, Coorg|2, Munnar|2, Yelagiri|2, Ooty|3, Kodaikanal|2
+
+Offbeat: Khajjiar|3, Almora|2, Harsil|3, Bir|2, Valley of flowers|3, Mawsynram|2, Kasol|2, Mukteshwar|3, Rann of Kutch|3, Matheran|2, Wayanad|2, Yelagiri|2, Hogenekkal|2	
+
+Trekking: Zanskar|3, Roopkund|3, Valley of flowers|3, Lonavla|2
+Rafting: Manali|1, Rishikesh|3, Zanskar|2, Coorg|2
+Paragliding: Manali|2, Yelagiri|2, Bir|3
+Bungee-jumping: Rishikesh|2, Singapore|2, Pattaya|3
+Water-sports: Mumbai|2, Goa|3, Pattaya|3, Maldives|3, Mauritius|3
+Sky-diving: Dubai|3
+
+Desert: Jaisalmer|3, Rann of Kutch|2
+Nature: Dalhousie|2, Khajjiar|3, Mawsynram|2, Valley of flowers|3, Munnar|2
+Wildlife: Corbett|3, Valley of flowers|2, Sariska|3, Ranthambore|3, Bharatpur|2, Gir|3,Bandhavgarh|2, Kanha|3, Sundarbans|3, Kaziranga|3 
+
+Temple: Amarnath|3, Vaishno Devi|3, Gangotri|3, Yamunotri|3, Kedarnath|3, Badrinath|3, Haridwar|3, Khatu Shyam|2, Nagdwara|2, Salasar|3, Dwarka|2, Somnath|1, Ayodhya|3, Allahabad|3, Kushinagar|2, Varanasi|3, Khajuraho|2, Ujjain|3, Mahabaleshwar|3, Puri|2, Konark|2, Gokarna|2, Hampi|2, Madurai|3, Rameswaram|3, Thanjavur|3, Kanyakumari|3, Tirupati|3
+Mosque: Ajmer|3, Madurai|1
+Gurudwara: Amritsar|3
+Church: Goa|3, Vatican city	|3
+Monastery: Leh|3, Dharamsala|3, Bodhgaya|3, Zanskar|2
+
+Road trip: Leh|3, Jaisalmer|2, Puri|1, Mahabaleshwar|2
+Monument: Amritsar|2, Jaipur|2, Jodhpur|2, Udaipur|1, Agra|3, Sanchi|2, Khajuraho|3, Mumbai|2, Ajanta and Ellora|3, Hampi|3, Mysore|2, Hyderabad|2, Paris|3, Rome|3, Barcelona|3, Delhi|3
+History: Jaipur|3, Bikaner|2, Jaisalmer|2, Jodhpur|3, Ahmedabad|2, Orchcha|3, Gwalior|3, Nalanda|2, Ajanta and Ellora|3, Konark|3, Hampi|3, Chennai|2, Thanjavur|3, Kanyakumari|3, Hyderabad|2, Rome|3, Amsterdem|2, Barcelona|3
