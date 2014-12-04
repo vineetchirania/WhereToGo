@@ -29,8 +29,11 @@ def find_destination(activity_list):
     # Sort on reverse rating
     recommended_cities = sorted(city_map.items(), key=operator.itemgetter(1),reverse=True)
     print 'Following cities recommended for',activity_csv
+    city_list = []
     for city,rating in recommended_cities:
         print city,rating
+        city_list.append(city)
+    return city_list
 
 if __name__ == "__main__":
     args = sys.argv
