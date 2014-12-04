@@ -1,8 +1,8 @@
-Beach: Alibagh|2, Puri|3, Gokarna|2, Kovalam|2, Alapuzza|3, Mumbai|1, Chennai|1, Goa|3, Singapore|2, Pattaya|3, Phuket|3, Bali|3, Mauritius|3, Maldives|3, Dubai|2, Amsterdem|2, Barcelona|3
+Beach: Alibagh|2, Puri|3, Gokarna|2, Kovalam|2, Alapuzza|2, Mumbai|1, Chennai|1, Goa|3, Singapore|2, Pattaya|3, Phuket|3, Bali|3, Mauritius|3, Maldives|3, Dubai|2, Amsterdem|2, Barcelona|3
 
 Skyline: Dubai|3, Singapore|3, Hongkong|3, Mumbai|1
 
-Casino: Goa|2, Singapore|3, Amsterdem|2, Las Vegas|3
+Casino: Goa|2, Gangtok|2, Singapore|3, Amsterdem|2, Las Vegas|3, Mauritius|1
 
 Hill station: Gulmarg|3, Leh|3, Srinagar|3, Dalhousie|2, Shimla|2, Manali|3, Dharamsala|2, Almora|2, Harsil|2, Khajjiar|2, Bir|1, Kasol|2, Mukteshwar|2, Nainital|3, Mussorie|3, Mount Abu|3, Gangtok|3, Darjeeling|3, Lonavla|2, Matheran|2, Mahabaleshwar|1, Coorg|2, Munnar|2, Yelagiri|2, Ooty|3, Kodaikanal|2
 
