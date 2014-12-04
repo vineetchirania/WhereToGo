@@ -22,7 +22,7 @@ Wildlife: Corbett|3, Valley of flowers|2, Sariska|3, Ranthambore|3, Bharatpur|2,
 Temple: Amarnath|3, Vaishno Devi|3, Gangotri|3, Yamunotri|3, Kedarnath|3, Badrinath|3, Haridwar|3, Khatu Shyam|2, Nagdwara|2, Salasar|3, Dwarka|2, Somnath|1, Ayodhya|3, Allahabad|3, Kushinagar|2, Varanasi|3, Khajuraho|2, Ujjain|3, Mahabaleshwar|3, Puri|2, Konark|2, Gokarna|2, Hampi|2, Madurai|3, Rameswaram|3, Thanjavur|3, Kanyakumari|3, Tirupati|3
 Mosque: Ajmer|3, Madurai|1
 Gurudwara: Amritsar|3
-Church: Goa|3, Vatican city	|3
+Church: Goa|3, Vatican city	|3, Rome |3
 Monastery: Leh|3, Dharamsala|3, Bodhgaya|3, Zanskar|2
 
 Road trip: Leh|3, Jaisalmer|2, Puri|1, Mahabaleshwar|2
